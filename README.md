@@ -14,7 +14,7 @@ programming languages I've used / programmeringsspråk jeg har brukt
 > C++ - python - GDScript - JavaScript - HTML
 
 Version control and dev tools I've used / versjonskontroll og utviklings verktøy jeg har brukt
-> GitHub - Visual Studio Code
+> GitHub - Visual Studio Code - Godot game engine
 
 operating systems I've used / operativsystemer jeg har brukt
 > MacOS - Windows
